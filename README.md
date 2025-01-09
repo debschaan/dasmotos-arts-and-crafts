@@ -13,7 +13,7 @@ Codecademy Off-Platform Challenge Project
 The project's styling specifications were outlined in the following document:
 ![Design specifications for the project](/assets/dasmotos-arts_redline.jpg)
 
-### Project Printscreens
+### Project Printscreen
 
 ![Printscreen of the project](/assets/homepage1.png)
 ![Another printscreen of the project](/assets/homepage2.png)
