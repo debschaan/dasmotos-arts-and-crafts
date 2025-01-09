@@ -11,9 +11,9 @@ Codecademy Off-Platform Challenge Project
 ## Design Specifications
 
 The project's styling specifications were outlined in the following document:
-![Design specifications for the project](../dasmotos-arts-and-crafts/assets/dasmotos-arts_redline.jpg)
+![Design specifications for the project](/assets/dasmotos-arts_redline.jpg)
 
 ### Project Printscreens
 
-![Printscreen of the project](../dasmotos-arts-and-crafts/assets/homepage1.png)
-![Another printscreen of the project](../dasmotos-arts-and-crafts/assets/homepage2.png)
+![Printscreen of the project](/assets/homepage1.png)
+![Another printscreen of the project](/assets/homepage2.png)
